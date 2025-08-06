@@ -6,7 +6,7 @@ import turtle
 perguntas = [
     "Você gosta de surpresas?",
     "Você sabia que é muito especial pra mim?",
-    "Você esta feliz hoje?",
+    "Você está feliz hoje?",
     "Você me ama mesmo?",
     "Tu confia em mim?",
     "Quer ser a minha Hermione?",
