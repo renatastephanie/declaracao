@@ -4,13 +4,13 @@ import random
 import turtle
 
 perguntas = [
-    "voce gosta de surpresas?",
-    "voce sabia que é muito especial pra mim?",
-    "voce esta feliz hoje?",
-    "voce me ama mesmo?",
-    "tu confia em mim?",
-    "quer ser a minha Hermione?",
-    "voce aceita namorar comigo?"
+    "Você gosta de surpresas?",
+    "Você sabia que é muito especial pra mim?",
+    "Você esta feliz hoje?",
+    "Você me ama mesmo?",
+    "Tu confia em mim?",
+    "Quer ser a minha Hermione?",
+    "Você aceita namorar comigo?"
 ]
 
 mensagens_negacao = [
